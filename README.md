@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,8 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# Quizzical
+
+Quizzical is a gamified quiz web application built with React, Supabase, and AI integration. Users can enter their name, choose a category, difficulty, and timer, and then take an AI-generated multiple-choice quiz. After completing the quiz, their scores are stored and displayed on a global leaderboard, making the experience competitive and engaging.
+>>>>>>> 70f0afb86efd98f9cb9fcced3a4d0a86eedf1ad6
